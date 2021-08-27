@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kwaiyiu
 - 👀 I’m interested in diving in the world of data analytics.
 - 🌱 I’m currently learning about:
- - data modeling on Kaggle
- - software development life cycle
+   - data modeling on Kaggle
+   - software development life cycle
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
